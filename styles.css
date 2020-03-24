@@ -1,0 +1,28 @@
+img{
+    border-radius: 5%;
+    border: 4px solid yellowgreen;
+}
+
+p{
+
+    font-size: 24px;
+
+}
+h1{
+
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+
+    text-align: center;
+    font-style: italic;
+}
+a{
+    color: red;
+}
+li{
+    font-size: 22px;
+}
